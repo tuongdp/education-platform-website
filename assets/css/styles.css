@@ -405,8 +405,7 @@ a {
     font-size: 1.4rem;
 }
 
-.popular .course-item .book-btn:hover,
-.popular .course-item .book-btn.active {
+.popular .course-item .book-btn:hover {
     background: var(--primar-color);
     color: #fff;
 }

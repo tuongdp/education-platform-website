@@ -26,8 +26,8 @@ EducationPlatform/
 │   ├── css/
 │   │   ├── reset.css
 │   │   └── styles.css
-│   ├── fonts/
 │   └── img/
+│   └── icons/
 ├── index.html
 └── README.md
 ```

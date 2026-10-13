@@ -28,6 +28,7 @@ EducationPlatform/
 │   │   └── styles.css
 │   └── img/
 │   └── icons/
+│   └── favicon/
 ├── index.html
 └── README.md
 ```
